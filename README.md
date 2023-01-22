@@ -1,4 +1,4 @@
-# event_logger
+# Event Logger
 
 An abstract event logger, supporting text, XML, and SQL contexts
 
